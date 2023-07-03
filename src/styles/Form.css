@@ -1,0 +1,8 @@
+@media screen and (max-width: 768px) {
+  .add-form {
+   flex-direction: column;
+  }
+  h3{
+    text-align: center;
+  }
+}
